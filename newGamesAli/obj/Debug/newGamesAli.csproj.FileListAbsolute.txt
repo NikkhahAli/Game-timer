@@ -1,0 +1,10 @@
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\obj\Debug\newGamesAli.csproj.AssemblyReference.cache
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\obj\Debug\newGamesAli.Form1.resources
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\obj\Debug\newGamesAli.Properties.Resources.resources
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\obj\Debug\newGamesAli.csproj.GenerateResource.cache
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\obj\Debug\newGamesAli.csproj.CoreCompileInputs.cache
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\bin\Debug\newGamesAli.exe.config
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\bin\Debug\newGamesAli.exe
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\bin\Debug\newGamesAli.pdb
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\obj\Debug\newGamesAli.exe
+C:\Users\TOOSCOM\source\repos\newGamesAli\newGamesAli\obj\Debug\newGamesAli.pdb
