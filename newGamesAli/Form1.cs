@@ -13,9 +13,7 @@ namespace newGamesAli
     public partial class Form1 : Form
     {
         int score = 0;
-
         bool isActive = false;
-
         bool isActiveUp = false;
         bool isActiveDown = false;
         bool isActiveLeft = false;
@@ -46,7 +44,6 @@ namespace newGamesAli
                 timer1.Stop();
                 MessageBox.Show("you have lost");
             }
-            
         }
         private void Form1_Load(object sender, EventArgs e)  {}
         private void timer1_Tick(object sender, EventArgs e)
