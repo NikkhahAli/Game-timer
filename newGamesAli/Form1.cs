@@ -52,7 +52,6 @@ namespace newGamesAli
         private void timer1_Tick(object sender, EventArgs e)
         {
             if (isActive) {
-
                 if (isActiveUp)
                 {
                     this.up();
